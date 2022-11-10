@@ -1,0 +1,14 @@
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\bin\Debug\HashtableWork.exe.config
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\bin\Debug\HashtableWork.exe
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\bin\Debug\HashtableWork.pdb
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\obj\Debug\HashtableWork.csprojResolveAssemblyReference.cache
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\obj\Debug\MainWindow.g.cs
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\obj\Debug\App.g.cs
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\obj\Debug\HashtableWork_MarkupCompile.cache
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\obj\Debug\HashtableWork_MarkupCompile.lref
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\obj\Debug\MainWindow.baml
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\obj\Debug\HashtableWork.g.resources
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\obj\Debug\HashtableWork.Properties.Resources.resources
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\obj\Debug\HashtableWork.csproj.GenerateResource.Cache
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\obj\Debug\HashtableWork.exe
+c:\users\ball-new\documents\visual studio 2017\Projects\HashtableWork\HashtableWork\obj\Debug\HashtableWork.pdb
